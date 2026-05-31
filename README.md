@@ -1,6 +1,6 @@
 # Math Lab
 
-A guided math practice studio covering chapters 1–20, with worked examples, progressive hints, and progress tracking.
+A guided math practice studio covering chapters 1–40, with worked examples, progressive hints, and progress tracking.
 
 ## Live site
 
